@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: "Thanseeh — Web Developer & Custom Software Solutions",
+  title: "Thanseeh — Web Developer",
   description: "Web developer based in Mokeri, Kuttiady, Kozhikode. Building modern websites, custom business software, basic SEO, and Google Business Profile & Maps setup.",
   keywords: [
     "Thanseeh",
